@@ -26,8 +26,10 @@ Note: You have to change some information in the global variables of the script
 
 ## Order to execute the scripts
 
-`python3 dumpDB.py`
-`python3 dumpTables.py`
-`python3 dumpColumns.py`
-`python3 dumpDataFromColumns.py`
+```
+python3 dumpDB.py
+python3 dumpTables.py
+python3 dumpColumns.py
+python3 dumpDataFromColumns.py
+```
 
